@@ -218,3 +218,10 @@ li.dropdown {
   border-radius: 50%;
 
 }
+
+.fb-like {
+  position: absolute;
+  top: 550px;
+  left: 100px;
+  color: white;
+}

@@ -54,7 +54,6 @@ html, body {
   background-color: rgba(255, 255, 255, .3);
 }
 
-
 .main-header {
   background-color: rgba(0, 0, 0, 0.7);
   background-image: url("img/jin.jpg");
@@ -216,7 +215,6 @@ li.dropdown {
 
 .band-image {
   border-radius: 50%;
-
 }
 
 .fb-like {
@@ -287,4 +285,8 @@ li.dropdown {
   background-color: rgba(0, 0, 0, 0.7);
   background-blend-mode: multiply;
   padding-bottom: 30px;
+}
+
+.bgcolor.scrolled {
+  background-color: #e88ea2;
 }

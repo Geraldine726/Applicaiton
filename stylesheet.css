@@ -55,7 +55,7 @@ html, body {
 }
 
 .main-header {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.3);
   background-image: url("img/jin.jpg");
   background-size: cover;
   background-position: center;
